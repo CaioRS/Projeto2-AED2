@@ -1,0 +1,106 @@
+----------------------------------------------------------
+Total de convidados na fila: 16
+Total de ingressos disponiveis: 50
+----------------------------------------------------------
+
+Nome do convidado: Caio
+Sala do convidado: 2
+Email do convidado: aaa@aaaa.com
+Telefone do convidado: 11111111
+----------------------------------------------------------
+
+Nome do convidado: Giovanna
+Sala do convidado: 5
+Email do convidado: bbb@bbbb.com
+Telefone do convidado: 22222222
+----------------------------------------------------------
+
+Nome do convidado: Bruna
+Sala do convidado: 3
+Email do convidado: ccc@cccc.com
+Telefone do convidado: 33333333
+----------------------------------------------------------
+
+Nome do convidado: Beta
+Sala do convidado: 1
+Email do convidado: ddd@ddd.com
+Telefone do convidado: 44444444
+----------------------------------------------------------
+
+Nome do convidado: Claudio
+Sala do convidado: 3
+Email do convidado: eee@eee.com
+Telefone do convidado: 55555555
+----------------------------------------------------------
+
+Nome do convidado: Matheus
+Sala do convidado: 1
+Email do convidado: fff@ffff.com
+Telefone do convidado: 66666666
+----------------------------------------------------------
+
+Nome do convidado: Felipe
+Sala do convidado: 4
+Email do convidado: ggg@gggg.com
+Telefone do convidado: 77777777
+----------------------------------------------------------
+
+Nome do convidado: Rafael
+Sala do convidado: 1
+Email do convidado: hhh@hhhh.com
+Telefone do convidado: 88888888
+----------------------------------------------------------
+
+Nome do convidado: Pietro
+Sala do convidado: 2
+Email do convidado: iii@iiii.com
+Telefone do convidado: 99999999
+----------------------------------------------------------
+
+Nome do convidado: Julia
+Sala do convidado: 4
+Email do convidado: jjj@jjjjj.com
+Telefone do convidado: 00000000
+----------------------------------------------------------
+
+Nome do convidado: Jessika
+Sala do convidado: 3
+Email do convidado: kkk@kkkkk.com
+Telefone do convidado: 12345678
+----------------------------------------------------------
+
+Nome do convidado: Isadora
+Sala do convidado: 5
+Email do convidado: lll@llll.com
+Telefone do convidado: 15315359
+----------------------------------------------------------
+
+Nome do convidado: Alexandre
+Sala do convidado: 4
+Email do convidado: mmm@mmmmm.com
+Telefone do convidado: 75931265
+----------------------------------------------------------
+
+Nome do convidado: Gabriel
+Sala do convidado: 5
+Email do convidado: nnn@nnnn.com
+Telefone do convidado: 19224655
+----------------------------------------------------------
+
+Nome do convidado: Diego
+Sala do convidado: 4
+Email do convidado: ooo@ooooo.com
+Telefone do convidado: 16154232
+----------------------------------------------------------
+
+Nome do convidado: Neymar
+Sala do convidado: 1
+Email do convidado: ppp@pppp.com
+Telefone do convidado: 13281649
+----------------------------------------------------------
+
+----------------------------------------------------------
+Total de convidados sem ingresso: 0
+Total de ingressos restantes: 34
+----------------------------------------------------------
+
